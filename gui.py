@@ -15,7 +15,7 @@ while True:
     print(values)
     match event:
         case "Add":
-            todos = function.get_todos()
+            todos = functions.get_todos()
             new_todo = values['todo'] + "\n"
             todos.append(new_todo)
             functions.write_todos(todos)
