@@ -1,6 +1,6 @@
-eat
-sleep
-cook
-wash
-bathe
-drive
+eat lunch
+clean kitchen
+sleep for 2 hrs
+go to gym
+prepare dinner
+sleep again
