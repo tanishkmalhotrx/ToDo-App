@@ -1,0 +1,6 @@
+eat
+sleep
+cook
+wash
+bathe
+drive
